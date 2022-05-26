@@ -1,6 +1,6 @@
 # KDP-Management-System
 
-A Web application with MySQL database conncectivity using HTML, Python & Flask Framework.
+A Web application with MySQL database connectivity using HTML, Python & Flask Framework.
 
 Created for faciliating : 
 
